@@ -1,7 +1,7 @@
 # Flashlight
 This is a repository for a flashlight.
-It measures Ø54 mm x 223.5 mm
-It can be made using a normal lathe and a milling machine.
+It measures Ø54 mm x 223.5 mm depending on the batteries used.
+It can be made using a normal lathe and a drill press or a milling machine.
 A multi axis CNC is required for the fancy engraving.
 
 You will need a round stock that has 60mm diameter and 230mm length, 
@@ -13,17 +13,18 @@ If Anodizing is added as a surface treatment, the threads must be left bare, as 
 It is also smart to use a good quality  thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good.
 Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
 
-It takes two 32600 Batteries, I think that protected ones should fit.
-It can easily be changed to use 32650 batteries if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
+It takes two 32600 Batteries ( 32 mm diameter and 60mm length), I think that protected ones should fit.
+It can easily be changed to use 32650 ( 32 mm diameter and 65 mm length) if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
 You just have to find the pad in the battery holder and add 10mm to it. 
 You will need to export the iges files afterwards if that is done,as they will be out of date.
+This also includes the fancy tube with engraving.
 
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
 https://oshpark.com/shared_projects/fPAPVkXT
 It also requires a DC- negative connection, take care so the batterys DC+ side cannot get in contact with the PCB's DC - connection/ solder pad.
 
-One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys DC- therminal.
+One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys negative therminal.
 
 It also needs these parts, copied form the BOM file:
 
