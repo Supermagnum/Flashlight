@@ -1,6 +1,8 @@
 # Flashlight
 This is a repository for a flashlight.
 It measures Ø54 mm x 223.5 mm
+It can be made using a normal lathe and a milling machine.
+A multi axis CNC is required for the fancy engraving.
 
 You will need a round stock that has 60mm diameter and 230mm length, 
 material 6061 aluminium alloy to make this flashlight.
