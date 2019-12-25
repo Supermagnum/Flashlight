@@ -16,8 +16,7 @@ Ordinary electric conductive copper paste can perhaps be used on the threads on 
 It takes two 32600 Batteries, I think that protected ones should fit.
 It can easily be changed to use 32650 batteries if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
 You just have to find the pad in the battery holder and add 100mm to it. 
-You will need to export the iges files afterwards if that is done.
-The design is,after all open source.
+You will need to export the iges files afterwards if that is done,as they will be out of date.
 
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
