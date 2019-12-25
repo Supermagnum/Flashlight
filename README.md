@@ -22,7 +22,7 @@ This also includes the fancy tube with engraving.
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
 https://oshpark.com/shared_projects/fPAPVkXT
-It also requires a DC- negative connection, take care so the batterys DC+ side cannot get in contact with the PCB's DC - connection/ solder pad.
+It also requires a DC- negative connection, take care so the batterys DC+ side cannot get in contact with the PCB's DC- connection/solder pad.
 
 One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys negative therminal.
 
