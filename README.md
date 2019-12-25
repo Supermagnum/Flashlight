@@ -8,7 +8,8 @@ You will need to thread the parts as you see fit, and add knurling.
 
 If Anodizing is added as a surface treatment, the threads must be left bare, as the chassis is DC negative and electric connections must be preserved.
 
-It is also smart to use a good quality  thermal paste on the threads of the part that holds the driver PCB,LED pcb, and the backside of the LED pcb. Something like NT-H1 from Noctua is good.
+It is also smart to use a good quality  thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good.
+Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
 
 It takes two 32600 Batteries, I think that protected ones should fit.
 
