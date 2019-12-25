@@ -8,7 +8,7 @@ You will need to thread the parts as you see fit, and add knurling.
 
 If Anodizing is added as a surface treatment, the threads must be left bare, as the chassis is DC negative and electric connections must be preserved.
 
-It is also smart to use a good quality  thermal paste on the threads of the part that holds the driver PCB,LED pcb, ant the backside of the LED pcb. Something like NT-H1 from Noctua is good.
+It is also smart to use a good quality  thermal paste on the threads of the part that holds the driver PCB,LED pcb, and the backside of the LED pcb. Something like NT-H1 from Noctua is good.
 
 It takes two 32600 Batteries, I think that protected ones should fit.
 
@@ -32,6 +32,12 @@ Mountain Electronics 	XHP70.2-M4-3K 	1 	Cree XHP70.2 M4 3000K 80+ CRI, 6V 20mm S
 Explanation on the files:
 Exploded.jpg is the exploded view from Freecad, with all the parts visible.
 Viking-holder.png is the battery holder with graphics from a sword hilt found at Alm in Stange, Norway. It's from around year 800.
+
+flashlight-32mm.FCStd , this is the Freecad file without any fancy engraving.
+
+The Freecad file for the battery holder with fancy engraving is here:
+https://www.dropbox.com/s/gc08t12z3uo25pi/viking-holder.FCStd?dl=0
+
 
 The iges file for that is in this link,because github cannot handle files of that size:
 https://www.dropbox.com/sh/lizazcrzlvrs3z1/AABt5q_hpzIwJAGmto8MnXZPa?dl=0
