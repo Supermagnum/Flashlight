@@ -32,11 +32,12 @@ Mountain Electronics 	XHP70.2-M4-3K 	1 	Cree XHP70.2 M4 3000K 80+ CRI, 6V 20mm S
 Explanation on the files:
 Exploded.jpg is the exploded view from Freecad, with all the parts visible.
 Viking-holder.png is the battery holder with graphics from a sword hilt found at Alm in Stange, Norway. It's from around year 800.
+
 The iges file for that is in this link,because github cannot handle files of that size:
 https://www.dropbox.com/sh/lizazcrzlvrs3z1/AABt5q_hpzIwJAGmto8MnXZPa?dl=0
 
 
-All the IGES files and SVG blueprints are in their folder.
+All the IGES files and SVG blueprints are in their folders.
 
 The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
