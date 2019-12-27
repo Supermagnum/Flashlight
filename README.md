@@ -31,7 +31,7 @@ It also requires a DC- negative connection, take care so the batterys DC+ side c
 
 One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys negative therminal.
 
-It also needs the parts, those are mentioned inthe BOM file.
+It also needs the parts, those are mentioned in the BOM file.
 
 Explanation on the files:
 Exploded.jpg is the exploded view from Freecad, with all the parts visible.
@@ -51,12 +51,13 @@ All the IGES files and SVG blueprints are in their folders.
 
 The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
+
 NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries are not covered by the mentioned license!
 
 If you are not happy with the design,fork it!
 https://en.m.wikipedia.org/wiki/Fork_(software_development)
 
-After all, it's open source and licenced under : 
+After all, it's open source and licenced under: 
 
 Creative Commons Attribution 4.0 International.
 
