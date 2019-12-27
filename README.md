@@ -30,6 +30,8 @@ https://raw.githubusercontent.com/Supermagnum/polarity/master/schematic.png
 It also requires a DC- negative connection, take care so the batterys DC+ side cannot get in contact with the PCB's DC- connection/solder pad.
 
 One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys negative therminal.
+It's also some soldering involved, the legs on the switch,and the wires from the driver PCB is the ones that needs soldering.
+That is four points total.
 
 It also needs the parts, those are mentioned in the BOM file.
 
@@ -52,7 +54,7 @@ All the IGES files and SVG blueprints are in their folders.
 The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
 
-NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries are not covered by the mentioned license!
+NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries is not covered by the mentioned license!
 
 If you are not happy with the design,fork it!
 https://en.m.wikipedia.org/wiki/Fork_(software_development)
