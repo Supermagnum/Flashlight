@@ -13,11 +13,14 @@ If Anodizing is added as a surface treatment, the threads must be left bare, as 
 It is also smart to use a good quality  thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good.
 Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
 
-It takes two 32600 Batteries ( 32 mm diameter and 60mm length), I think that protected ones should fit.
+It takes two 32600 lithium ion batteries Batteries ( 32 mm diameter and 60mm length), I think that protected ones should fit.
 It can easily be changed to use 32650 ( 32 mm diameter and 65 mm length) if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
 You just have to find the pad in the battery holder and add 10mm to it. 
 You will need to export the iges files afterwards if that is done,as they will be out of date.
 This also includes the fancy tube with engraving.
+
+NOTE: Some of these cells mentioned is also available as LiFePO₄.
+Use protected cells!
 
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
