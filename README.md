@@ -16,7 +16,7 @@ Ordinary electric conductive copper paste can perhaps be used on the threads on 
 It takes two 32600 lithium ion batteries Batteries ( 32 mm diameter and 60mm length), I think that protected ones should fit.
 It can easily be changed to use 32650 ( 32 mm diameter and 65 mm length) if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
 You just have to find the pad in the battery holder and add 10mm to it. 
-You will need to export the iges files afterwards if that is done,as they will be out of date.
+You will need to export the iges files and the blueprints afterwards if that is done,as they will be out of date.
 This also includes the fancy tube with engraving.
 
 NOTE: Some of these cells mentioned is also available as LiFePO₄.
@@ -31,15 +31,7 @@ It also requires a DC- negative connection, take care so the batterys DC+ side c
 
 One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys negative therminal.
 
-It also needs these parts, copied form the BOM file:
-
-WÜRTH 	Art.-no. 046803830 	2 	O-ring : RG-O-ISO3601-PERBUNAN70-38,00X3,00
-Freudenberg Sealing Technologies/ Otto Olsen 	FKM/FEP MOQ 11 	1 	FEP-O-Seal ID 39,34 X 2,62 FKM
-Mountain Electronics 	ARLENS-42MM 	1 	42mm AR Coated Glass Lens
-Mountain Electronics 	RFLCTR-42x31.5-OP 	1 	C8 Orange Peel Reflector - 42*31.5mm
-Mountain Electronics 	MTN-30DDm-2S+-CLK 	1 	30mm FET + 7135 Driver - MTN-30DDm - 2S-4S Input Voltage (Clicky)
-Mouser 	Mouser No: 999-P5-V52122 	1 	Pushbutton Switch, IP69X
-Mountain Electronics 	XHP70.2-M4-3K 	1 	Cree XHP70.2 M4 3000K 80+ CRI, 6V 20mm Sinkpad Copper Direct-Thermal-Path
+It also needs the parts, those are mentioned inthe BOM file.
 
 Explanation on the files:
 Exploded.jpg is the exploded view from Freecad, with all the parts visible.
