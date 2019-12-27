@@ -15,7 +15,7 @@ Ordinary electric conductive copper paste can perhaps be used on the threads on 
 
 It takes two 32600 lithium ion batteries Batteries ( 32 mm diameter and 60mm length), I think that protected ones should fit.
 It can easily be changed to use 32650 ( 32 mm diameter and 65 mm length) if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
-You just have to find the pad in the battery holder and add 10mm to it. 
+You just have to find the pad in the battery holder and add 10mm to it. That changes the total length of the tube that holds the batteries by +10mm.
 You will need to export the iges files and the blueprints afterwards if that is done,as they will be out of date.
 This also includes the fancy tube with engraving.
 
@@ -53,5 +53,11 @@ The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
 NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries are not covered by the mentioned license!
 
+If you are not happy with the design,fork it!
+https://en.m.wikipedia.org/wiki/Fork_(software_development)
+
+After all, it's open source and licenced under : 
+
+Creative Commons Attribution 4.0 International.
 
 
