@@ -19,7 +19,7 @@ You just have to find the pad in the battery holder and add 10mm to it. That cha
 You will need to export the iges files and the blueprints afterwards if that is done,as they will be out of date.
 This also includes the fancy tube with engraving.
 
-If you are lazy, the IGES files and stl files for two 32650 batteries is here:
+If you are lazy, the IGES files and stl files for the fancy engraved version with two 32650 batteries is here:
 https://www.dropbox.com/sh/6wbks64cn8wbjib/AAAcXH6BOxM2oGFneiy30rj1a?dl=0
 
 Rendering of it from Blender:
