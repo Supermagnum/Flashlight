@@ -50,6 +50,10 @@ Viking-holder.png is the battery holder with graphics from a sword hilt found at
 
 flashlight-32mm.FCStd , this is the Freecad file without any fancy engraving.
 
+FreeCAD can be found here:
+https://www.freecadweb.org/
+Its free!
+
 The Freecad file for the battery holder with fancy engraving is here:
 https://www.dropbox.com/s/gc08t12z3uo25pi/viking-holder.FCStd?dl=0
 
