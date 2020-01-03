@@ -22,6 +22,9 @@ This also includes the fancy tube with engraving.
 If you are lazy, the IGES files and stl files for the fancy engraved version with two 32650 batteries is here:
 https://www.dropbox.com/sh/6wbks64cn8wbjib/AAAcXH6BOxM2oGFneiy30rj1a?dl=0
 
+Blueprints in PDF format,without the engraving for two 32650 batteries:
+https://github.com/Supermagnum/Flashlight/tree/master/%C3%9832-32650B
+
 Rendering of it from Blender, with anodized silver look:
 https://raw.githubusercontent.com/Supermagnum/Flashlight/master/lommelykt.png
 
