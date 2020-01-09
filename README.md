@@ -80,4 +80,3 @@ After all, it's open source and licenced under:
 
 Creative Commons Attribution 4.0 International.
 
-
