@@ -27,8 +27,10 @@ https://www.dropbox.com/sh/6wbks64cn8wbjib/AAAcXH6BOxM2oGFneiy30rj1a?dl=0
 
 Blueprints in PDF format,without the engraving for two 32650 batteries:
 https://github.com/Supermagnum/Flashlight/tree/master/%C3%9832-32650B
+
 STL file of the battery holder with fancy engraving:
 https://www.dropbox.com/s/rnodmap73pcnvo5/viking-holder-negative.stl?dl=0
+
 Picture:
 https://github.com/Supermagnum/Flashlight/blob/master/%C3%9832-32650B/32650-n.png
 
@@ -50,7 +52,8 @@ One leg of the switch must be connected to the endcap. The switch may require a 
 It's also some soldering involved, the legs on the switch,and the wires from the driver PCB is the ones that needs soldering.
 That is four points total.
 
-It also needs the parts, those are mentioned in the BOM file.
+It also needs the parts, those are mentioned in the BOM file:
+https://github.com/Supermagnum/Flashlight/blob/master/BOM.csv
 
 Explanation on the files:
 Exploded.jpg is the exploded view from Freecad, with all the parts visible.
