@@ -42,7 +42,7 @@ Use protected cells!
 
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
-https://oshpark.com/shared_projects/JGirYvqU
+https://oshpark.com/shared_projects/bFjuDFAW
 
 It's schematic diagram explains how it's wired up:
 https://raw.githubusercontent.com/Supermagnum/polarity/master/schematic.png
