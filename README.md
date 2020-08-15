@@ -42,7 +42,21 @@ Use protected cells!
 
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
-https://oshpark.com/shared_projects/bFjuDFAW
+https://oshpark.com/shared_projects/uu3whdRd
+
+This PCB board is 31mm in diameter, it has a single P-Channel IRLR9343TRPBF mosfet that is capable of tolerating 20V 20A. It should be fairly simple to solder, even that it is surface mounted. It does not conduct any electricity if subjected to the wrong polarity. It has two 13mm solder pads,the one on the DC protected side can be soldered to the top of your existing drivers spring. There is also a DC- or ground connection, I suggest a AVG 15 (1.45 mm diameter ) flexible wire for this usage. The DC+ unprotected side goes to the batteries.
+
+BOM: one P-Channel IRLR9343TRPBF MOSFET.
+
+Github: https://github.com/Supermagnum/polarity
+
+
+This PCB board is 31mm in diameter, it has a single P-Channel IRLR9343TRPBF mosfet that is capable of tolerating 20V 20A. It should be fairly simple to solder, even that it is surface mounted. It does not conduct any electricity if subjected to the wrong polarity. It has two 13mm solder pads,the one on the DC protected side can be soldered to the top of your existing drivers spring. There is also a DC- or ground connection, I suggest a AVG 15 (1.45 mm diameter ) flexible wire for this usage. The DC+ unprotected side goes to the batteries.
+
+BOM: one P-Channel IRLR9343TRPBF MOSFET.
+
+Github: https://github.com/Supermagnum/polarity
+
 
 It's schematic diagram explains how it's wired up:
 https://raw.githubusercontent.com/Supermagnum/polarity/master/schematic.png
