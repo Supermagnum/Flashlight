@@ -7,7 +7,8 @@ A multi axis CNC is required for the fancy engraving.
 You will need a round stock that has 60mm diameter and 240mm length, 
 material 6061 aluminium alloy to make this flashlight.
 You will need to thread the parts as you see fit, and add knurling.
-
+The 3D files and blueprints doesn't have threads modelled or drawn.
+Fine pitch threads is preferred.
 If Anodizing is added as a surface treatment, the threads must be left bare, as the chassis is DC negative and electric connections must be preserved.
 
 It is also smart to use a good quality  thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good.
