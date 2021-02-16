@@ -4,7 +4,7 @@ It measures Ø54 mm x 223.5 mm depending on the batteries used.
 It can be made using a normal lathe and a drill press or a milling machine.
 A multi axis CNC is required for the fancy engraving.
 
-You will need a round stock that has 60mm diameter and 240mm length, 
+You will need a round stock that has 60mm diameter and 340mm length, 
 material 6061 aluminium alloy to make this flashlight.
 
 You will need to thread the parts as you see fit, and add knurling.
