@@ -43,6 +43,9 @@ https://raw.githubusercontent.com/Supermagnum/Flashlight/master/lommelykt.png
 NOTE: Some of these cells mentioned is also available as LiFePO₄.
 Use protected cells!
 
+The blueprints for the part that holds the lens needs to be revised, basically a step that measures 42mm dia and 1.5 mm deep needs to be added. That holds the lens in place.
+Use liquid gasket on the lens holder threads, and cut a small thin disk from rubber that goes between the lens holder and the lens.
+
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
 Just use this PCB:
 https://oshpark.com/shared_projects/uu3whdRd
@@ -52,7 +55,6 @@ This PCB board is 31mm in diameter, it has a single P-Channel IRLR9343TRPBF mosf
 BOM: one P-Channel IRLR9343TRPBF MOSFET.
 
 Github: https://github.com/Supermagnum/polarity
-
 
 It's schematic diagram explains how it's wired up:
 https://raw.githubusercontent.com/Supermagnum/polarity/master/schematic.png
