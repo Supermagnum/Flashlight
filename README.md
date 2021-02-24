@@ -15,6 +15,8 @@ If Anodizing is added as a surface treatment, the threads must be left bare, as 
 
 It is also smart to use a good quality  thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good.
 Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
+The topside of the PCB board that has the LED must be electrically insulated with a 1mm thick PTFE spacer with a hole for the LED.
+It will short circuit against the flashlight head if this is not done.
 
 It takes two 32600 lithium ion batteries Batteries ( 32 mm diameter and 60mm length), I think that protected ones should fit.
 It can easily be changed to use 32650 ( 32 mm diameter and 65 mm length) if the 32600 batteries is impossible to get,just edit the flashlight-32mm.FCStd file using Freecad.
