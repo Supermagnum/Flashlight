@@ -89,6 +89,17 @@ https://www.dropbox.com/sh/lizazcrzlvrs3z1/AABt5q_hpzIwJAGmto8MnXZPa?dl=0
 
 All the IGES files and SVG blueprints are in their folders.
 
+Images of finished flashlight:
+https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210217_183340_350.jpg
+
+https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210219_141836.jpg
+
+https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210219_141852.jpg
+
+https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210219_233542_639.jpg
+
+https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210220_114349.jpg
+
 The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
 
