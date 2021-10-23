@@ -48,7 +48,8 @@ Use protected cells!
 The blueprints for the part that holds the lens needs to be revised, basically a step that measures 42mm dia and 1.5 mm deep needs to be added. That holds the lens in place.
 Use liquid gasket on the lens holder threads, and cut a small thin disk from rubber that goes between the lens holder and the lens.
 
-Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that.
+Note on the LED driver: It doesn't have any protection agains reverse polarity, but its easy to add that.
+It should be hold in place by a suitable snap ring, with holes. One of those holes can be used to solder in a ground wire for the polarity protection PCB.
 Just use this PCB:
 https://oshpark.com/shared_projects/uu3whdRd
 
