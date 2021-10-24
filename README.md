@@ -13,7 +13,7 @@ Fine pitch threads is preferred.
 
 If Anodizing is added as a surface treatment, the threads must be left bare, as the chassis is DC negative and electric connections must be preserved.
 
-It is also smart to use a good quality  thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good.
+It is also smart to use a good quality  thermal paste on the backside of the LED pcb, and on the sides of the LED PCB holder. Something like NT-H1 from Noctua is good.
 Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
 The topside of the PCB board that has the LED must be electrically insulated with a 1mm thick PTFE spacer with a hole for the LED.
 It will short circuit against the flashlight head if this is not done.
@@ -24,8 +24,7 @@ You just have to find the pad in the battery holder and add 10mm to it. That cha
 You will need to export the iges files and the blueprints afterwards if that is done,as they will be out of date.
 This also includes the fancy tube with engraving.
 
-It should shine around 100 meters for two hours on full capacity and two 6000maH batteries..
-
+It should shine around 100 meters for two hours on full capacity and two 6000maH batteries.
 
 If you are lazy, the IGES files and stl files for the fancy engraved version with two 32650 batteries is here:
 https://www.dropbox.com/sh/6wbks64cn8wbjib/AAAcXH6BOxM2oGFneiy30rj1a?dl=0
@@ -91,6 +90,7 @@ https://www.dropbox.com/sh/lizazcrzlvrs3z1/AABt5q_hpzIwJAGmto8MnXZPa?dl=0
 All the IGES files and SVG blueprints are in their folders.
 
 Images of finished flashlight and parts:
+
 https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210217_183340_350.jpg
 
 https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210219_141836.jpg
