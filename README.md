@@ -24,7 +24,7 @@ You just have to find the pad in the battery holder and add 10mm to it. That cha
 You will need to export the iges files and the blueprints afterwards if that is done,as they will be out of date.
 This also includes the fancy tube with engraving.
 
-It should shine around 400 meters for two hours on full capacity.
+It should shine around 100 meters for two hours on full capacity and two 6000maH batteries..
 
 
 If you are lazy, the IGES files and stl files for the fancy engraved version with two 32650 batteries is here:
@@ -109,6 +109,8 @@ The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
 
 NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries is not covered by the mentioned license!
+
+The flashlight head might benefit from cooling grooves as it will get hot on 100% power!
 
 If you are not happy with the design,fork it!
 https://en.m.wikipedia.org/wiki/Fork_(software_development)
