@@ -52,7 +52,8 @@ Use protected cells!
 The blueprints for the part that holds the lens needs to be revised, basically a step that measures 42mm dia and 1.5 mm deep needs to be added. That holds the lens in place.
 Use liquid gasket on the lens holder threads, and cut a small thin disk from rubber (OD: 48mm ID:40mm 1.5mm thick)  that goes between the lens holder and the lens.
 
-Note on the LED driver: It doesn't have any protection agains reverse polarity, but its easy to add that.
+Note on the LED driver: The spring is positive polarity.
+It doesn't have any protection agains reverse polarity, but its easy to add that.
 It should be hold in place by a suitable snap ring, with holes. One of those holes can be used to solder in a ground wire for the polarity protection PCB.
 Just use this PCB:
 https://oshpark.com/shared_projects/WsPtYNPE
@@ -113,7 +114,7 @@ https://github.com/Supermagnum/Flashlight/blob/master/IMG_20211024_033835__01.jp
 The license for usage and so forth is in:
 https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
 
-NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries is not covered by the mentioned license!
+NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries,lens,rubber disk and Noctua grease is not covered by the mentioned license!
 
 The flashlight head might benefit from cooling grooves as it will get hot on 100% power!
 
