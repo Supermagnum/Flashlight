@@ -124,4 +124,7 @@ https://en.m.wikipedia.org/wiki/Fork_(software_development)
 After all, it's open source and licenced under: 
 
 Creative Commons Attribution 4.0 International.
+It's important that you make yourself familiar with it, please read here:
+https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
+
 
