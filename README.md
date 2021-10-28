@@ -13,8 +13,9 @@ Fine pitch threads is preferred.
 
 If Anodizing is added as a surface treatment, the threads must be left bare, as the chassis is DC negative and electric connections must be preserved.
 
-It is also smart to use a good quality  thermal paste on the backside of the LED pcb, and on the sides of the LED PCB holder. Something like NT-H1 from Noctua is good.
-Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
+It is also smart to use a good quality  thermal paste on the backside of the LED pcb, and on the sides of the LED PCB holder. 
+Something like NT-H1 from Noctua is good.
+Ordinary electric conductive copper paste or NT-H1 can perhaps be used on the sides on the part that holds the two PCB's to improve the thermal conductivity.
 The topside of the PCB board that has the LED must be electrically insulated with a 1mm thick PTFE spacer with a hole for the LED.
 It will short circuit against the flashlight head if this is not done.
 
@@ -50,7 +51,7 @@ Use liquid gasket on the lens holder threads, and cut a small thin disk from rub
 Note on the LED driver: It doesn't have any protection agains reverse polarity, but its easy to add that.
 It should be hold in place by a suitable snap ring, with holes. One of those holes can be used to solder in a ground wire for the polarity protection PCB.
 Just use this PCB:
-https://oshpark.com/shared_projects/uu3whdRd
+https://oshpark.com/shared_projects/WsPtYNPE
 
 This PCB board is 31mm in diameter, it has a single P-Channel IRLR9343TRPBF mosfet that is capable of tolerating 20V 20A. It should be fairly simple to solder, even that it is surface mounted. It does not conduct any electricity if subjected to the wrong polarity. It has two 13mm solder pads,the one on the DC protected side can be soldered to the top of your existing drivers spring. There is also a DC- or ground connection, I suggest a AVG 15 (1.45 mm diameter ) flexible wire for this usage. The DC+ unprotected side goes to the batteries.
 
