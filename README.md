@@ -49,8 +49,9 @@ https://raw.githubusercontent.com/Supermagnum/Flashlight/master/lommelykt.png
 NOTE: Some of these cells mentioned is also available as LiFePO₄.
 Use protected cells!
 
-The blueprints for the part that holds the lens needs to be revised, basically a step that measures 42mm dia and 1.5 mm deep needs to be added. That holds the lens in place.
-Use liquid gasket on the lens holder threads, and cut a small thin disk from rubber (OD: 48mm ID:40mm 1.5mm thick)  that goes between the lens holder and the lens.
+The blueprints for the part that holds the lens needs to be revised, basically a step that measures 42mm dia and 1.8 mm deep needs to be added. That holds the lens in place.
+Alternatively, that could be added to the flashlight heads place for the reflector so that the lens fits in there.
+Use liquid gasket on the lens holder threads, and cut a small thin disk from rubber (OD: 48mm ID:40mm 1~1.5mm thick)  that goes between the lens holder and the lens.
 
 Note on the LED driver: The spring is positive polarity.
 It doesn't have any protection agains reverse polarity, but its easy to add that.
