@@ -1,5 +1,5 @@
 # Flashlight
-This is a repository for a flashlight.
+This is a repository for a open source flashlight.
 It measures Ø54 mm x 223.5 mm depending on the batteries used.
 It can be made using a normal lathe and a drill press or a milling machine.
 A multi axis CNC is required for the fancy engraving.
@@ -69,7 +69,7 @@ It's schematic diagram explains how it's wired up:
 https://raw.githubusercontent.com/Supermagnum/polarity/master/schematic.png
 It also requires a DC- negative connection, take care so the batterys DC+ side cannot get in contact with the PCB's DC- connection/solder pad.
 
-One leg of the switch must be connected to the endcap. The switch may require a small spring so the other leg is in contact with the batterys negative therminal.
+One leg of the switch must be connected to the endcap. A small threaded bolt and a wire is good, the center prong of the switch needs to be extended so that it reaches above the bolt and wire. .
 It's also some soldering involved, the legs on the switch,and the wires from the driver PCB is the ones that needs soldering.
 That is four points total.
 
@@ -111,9 +111,6 @@ https://github.com/Supermagnum/Flashlight/blob/master/IMG_20210220_114349.jpg
 https://github.com/Supermagnum/Flashlight/blob/master/IMG_20211024_032223.jpg
 
 https://github.com/Supermagnum/Flashlight/blob/master/IMG_20211024_033835__01.jpg
-
-The license for usage and so forth is in:
-https://github.com/Supermagnum/Flashlight/blob/master/LICENSE
 
 NOTE: The LED Driver and the LED PCB, and the O-rings and lithium ion batteries,lens,rubber disk and Noctua grease is not covered by the mentioned license!
 
